@@ -1,4 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+
 * { box-sizing: border-box; }
+
 a 	{
 	color: black;
 	text-decoration: none;
@@ -19,6 +22,9 @@ nav	{
 nav > ul > li{
 	display: inline-block;
 	padding: 20px;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	font-family: 'Dancing Script';
 }
 nav > ul > li > a{
 	text-decoration: none;
