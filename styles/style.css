@@ -13,11 +13,11 @@ body{
 nav	{
 	background-color: lime;
 	margin: 0;
+	tex-align: center;
 }
 nav > ul > li{
 	display: inline-block;
 	padding: 20px;
-	text-align: center;
 }
 nav > ul > li > a{
 	text-decoration: none;
