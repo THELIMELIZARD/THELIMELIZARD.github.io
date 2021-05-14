@@ -5,10 +5,17 @@ a 	{
 h1	{
 	color: lime;
 	background-color: rgba(0, 0, 0, 0.4);
+	text-align: center;
 }
 body{
 	margin: 20px;
 }
 nav	{
 	background-color: lime;
+}
+nav > ul > li{
+	display: inline-block;
+	padding: 20px;
+}
+nav > ul > li > a{
 }
