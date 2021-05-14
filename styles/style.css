@@ -6,4 +6,6 @@ h1	{
 	color: green;
 	background-color: rgba(0, 0, 0, 0.6);
 }
-body: margin: 20px;
+body	{
+	margin: 20px;
+}	
