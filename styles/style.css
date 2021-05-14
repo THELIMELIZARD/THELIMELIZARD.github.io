@@ -13,7 +13,7 @@ body{
 nav	{
 	background-color: lime;
 	margin: 0;
-	tex-align: center;
+	text-align: center;
 }
 nav > ul > li{
 	display: inline-block;
@@ -26,3 +26,6 @@ nav > ul > li > a{
 nav > ul > li.hover{
 	background-color: green;
 )
+nav > ul{
+	text-align: center;
+}
