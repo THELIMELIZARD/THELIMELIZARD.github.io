@@ -21,10 +21,11 @@ nav	{
 }
 nav > ul > li{
 	display: inline-block;
-	padding: 20px;
+	padding: 10px;
 	border-left: 2px solid black;
 	border-right: 2px solid black;
 	font-family: 'Dancing Script';
+	text-size: 30px;
 }
 nav > ul > li > a{
 	text-decoration: none;
