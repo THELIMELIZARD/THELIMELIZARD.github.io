@@ -21,7 +21,7 @@ nav	{
 }
 nav > ul > li{
 	display: inline-block;
-	padding: 10px;
+	padding: 10px 0;
 	border-left: 2px solid black;
 	border-right: 2px solid black;
 	font-family: 'Dancing Script';
