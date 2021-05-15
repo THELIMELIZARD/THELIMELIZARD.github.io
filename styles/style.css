@@ -22,11 +22,12 @@ nav	{
 }
 nav > ul > li{
 	display: inline-block;
-	padding: 10px 0;
+	padding: 10px;
 	border-left: 2px solid black;
 	border-right: 2px solid black;
 	font-family: 'Dancing Script';
-	text-size: 30px;
+	font-size: 30px;
+	margin: auto 0;	
 }
 nav > ul > li > a{
 	text-decoration: none;
