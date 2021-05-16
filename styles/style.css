@@ -32,7 +32,7 @@ nav > ul > li > a{
 	text-transform: uppercase;
 }
 nav > ul > li:hover{
-	background-color: white;
+	background-color: darkgreen;
 }
 nav > ul{
 	text-align: center;
