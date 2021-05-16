@@ -33,8 +33,10 @@ nav > ul > li > a{
 }
 nav > ul > li:hover{
 	background-color: black;
-	color: lime;
 }
 nav > ul{
 	text-align: center;
+}
+nav > ul > li:hover > a{
+	color: lime;
 }
