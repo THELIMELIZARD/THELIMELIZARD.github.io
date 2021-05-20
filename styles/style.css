@@ -47,5 +47,7 @@ nav > ul > li:hover > a{
 	display: inline-block;
 }
 .imgmain{
-	width: 300px;
+	width: 500px;
+	text-align: center;
+	border: 2px solid black;
 }
