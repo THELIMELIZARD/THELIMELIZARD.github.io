@@ -40,3 +40,6 @@ nav > ul{
 nav > ul > li:hover > a{
 	color: lime;
 }
+.emaillink{
+	display: inline-block;
+}
