@@ -43,3 +43,6 @@ nav > ul > li:hover > a{
 .emaillink{
 	display: inline-block;
 }
+.emailtext{
+	display: inline-block;
+}
