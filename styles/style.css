@@ -48,6 +48,6 @@ nav > ul > li:hover > a{
 }
 .imgmain{
 	width: 500px;
-	display: inline;
 	border: 2px solid black;
+	margin: auto;
 }
