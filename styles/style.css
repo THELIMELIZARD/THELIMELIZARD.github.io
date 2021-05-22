@@ -49,5 +49,5 @@ nav > ul > li:hover > a{
 .imgmain{
 	width: 500px;
 	border: 2px solid black;
-	margin: auto;
+	margin:  10px auto;
 }
