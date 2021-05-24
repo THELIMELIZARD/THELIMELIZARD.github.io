@@ -20,7 +20,7 @@ nav	{
 	background-color: lime;
 	margin: 0;
 	text-align: center;
-	position: fixed;
+	margin: 0;
 }
 nav > ul > li{
 	display: inline-block;
