@@ -50,5 +50,5 @@ nav > ul > li:hover > a{
 .imgmain{
 	width: 500px;
 	border: 2px solid black;
-	margin:  10px;
+	margin:  10px 500px;
 }
