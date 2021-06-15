@@ -18,6 +18,7 @@ h1	{
 }
 body{
 	margin: 0px;
+	background-color: rgba(0, 90, 0, 0.6);
 }
 nav	{
 	background-color: lime;
